@@ -53,3 +53,20 @@ int main() {
 
 	return 0;
 }
+
+/*
+---------------------------------------------------
+Analysis of Insertion Sort:
+
+Time complexity: 
+	Best case: O(n) 
+	Average case: O(n^2) 
+	Worst case: O(n^2) 
+
+Space complexity: O(1) 
+
+Stability: yes. 
+
+---------------------------------------------------
+
+*/
