@@ -194,6 +194,7 @@ void DeleteAtPosition() {
 		}
 		else {
 			while(i<position-1) {
+				i++; 
 				temp = temp->next; 
 			}
 			
