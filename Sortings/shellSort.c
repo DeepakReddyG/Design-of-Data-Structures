@@ -1,3 +1,6 @@
+//shell sort implementation in c 
+//code contributed by Srinivas Reddy M
+
 #include<stdio.h>
 void shellsort(int [],int);
 int main()
